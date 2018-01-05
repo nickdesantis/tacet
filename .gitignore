@@ -1,0 +1,14 @@
+# Python
+*.pyc
+
+# KiCad Files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*~
+_autosave-*
+*.tmp
+
+# Netlists
+*.net
